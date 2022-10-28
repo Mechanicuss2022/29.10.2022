@@ -1,0 +1,46 @@
+.img_level_1 {
+	width: 120px;
+	height: 120px;
+}
+
+.img_level_2 {
+	float: left;
+	margin: 0px 10px 0px 0px;
+	width: 120px;
+	height: 120px;
+}
+
+p {
+	margin-top: 20px;	
+	margin-bottom: 20px;	
+}
+
+.level_12 { 
+	font-weight: 400;
+	font-size: 14px;
+	font-family: Arial;
+	color: #FF0000;
+}	
+	
+.zagolovok { 
+	font-weight: 600;
+	font-size: 18px;
+	font-family: Arial;
+}	
+
+.tekst { 
+	font-weight: 400;
+	font-size: 14px;
+	font-family: Arial;
+}	
+	
+.pidpys_1 { 
+	font-weight: 400;
+	font-size: 14px;
+	font-family: Arial;
+	text-align: right;
+}
+
+.pidpys_2 { 
+	font-style: italic;
+}
